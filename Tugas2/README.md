@@ -7,4 +7,4 @@
 > Screenshot tampilan dimasukkan dalam readme
 
 > Gambar Console
-![Gambar](/console.png)
+![Gambar](/Tugas2/console.png)
