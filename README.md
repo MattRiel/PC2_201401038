@@ -8,5 +8,5 @@
 #### Tugas 2
 > Buatlah web seperti di modul2 dan ubahlah tampilannya.
 
-#### Tugas 2
+#### Tugas 3
 > Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
