@@ -16,10 +16,10 @@
 > ![Vertical](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/verti.png)
 
 > Mirror X
-> ![Mirror X](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/mirox.png)
+> ![Mirror X](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/miroy.png)
 
 > Mirror Y
-> ![Mirror Y](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/miroy.png)
+> ![Mirror Y](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/mirox.png)
 
 > Gabungan
 > ![Gabungan](https://github.com/MattRiel/PC2_2022/blob/Modul3/Modul3/Screenshot/gabungan.png)
