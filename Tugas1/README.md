@@ -5,10 +5,10 @@
 
 ###### Buatlah web seperti di modul yang memiliki dan ubahlah tampilannya 
 > Gambar Awal
-![Gambar](/default.png)
+![Gambar](/Tugas1/Screenshot/default.png)
 
 > Perubahan RGB
-![Gambar](/histogram.png)
+![Gambar](/Tugas1/Screenshot/histogram.png)
 
 > Gambar Console
-![Gambar](/console.png)
+![Gambar](/Tugas1/Screenshot/console.png)
