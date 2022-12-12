@@ -1,3 +1,3 @@
-# Modul 7
+# UAS
 
-Transformasi 2D I
+Penggunaan minimal 4 filter pada satu gambar
